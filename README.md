@@ -1,6 +1,6 @@
 # DataStructure
 
-This repo contains Data Structures concept in very easy languages.
+Learn Data Structures concept in very easy languages. (only in 30 mins)
 
 ## Stack: ##
 ![Stack](https://user-images.githubusercontent.com/16849127/122709662-55ab4f00-d27c-11eb-8da9-d2b788cc3f66.jpg)
